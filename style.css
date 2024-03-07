@@ -1,6 +1,6 @@
 #first{
     display: flex;
-    gap: 10%;
+    gap: 8%;
 
     
 }
@@ -24,7 +24,7 @@
 #img2{
     margin-right: 30%;
     display: flex;
-    margin-top: -25%;
+    margin-top: -30%;
     
     
     
@@ -43,6 +43,7 @@
 #img3{
     margin-left: 40%;
     margin-top: -9%;
+    gap: 50%;
 
 
 
@@ -60,7 +61,7 @@
 }
 #hours{
     display: flex;
-    gap: 25%;
+    gap: 27%;
 }
 #words{
     display: flex;
@@ -68,7 +69,7 @@
 }
 #Names{
     display: flex;
-    gap: 1%;
+    gap: 12%;
 }
 #button{
     color: white;
@@ -79,9 +80,11 @@
     display: flex;
     margin-top: 5%;
     border-radius: 50%;
+    text-align: center;
 }
 h4{
-    color: darkred;
+    color: red;
+    font-size: 30px;
 
 }
 @media all and (max-width:500px){
