@@ -1,0 +1,89 @@
+#first{
+    display: flex;
+    gap: 11%;
+
+    
+}
+#images{
+    border-radius: 100%;
+    display: flex;
+    margin-left: 50%;
+    margin-top: -16%;
+    
+}
+#page1{
+    justify-content: center;
+    padding: 100px;
+    width: 1000px;
+    
+    
+    
+
+    
+}
+#img2{
+    margin-right: 30%;
+    display: flex;
+    margin-top: -25%;
+    
+    
+    
+}
+#page2{
+    margin-left: 50%;
+    justify-content: center;
+    border-radius: 25px;
+
+  
+}
+    
+    
+
+
+#img3{
+    margin-left: 40%;
+    margin-top: -9%;
+
+
+
+
+
+}
+#page3{
+    justify-content: center;
+    
+
+    
+    
+    
+
+}
+#hours{
+    display: flex;
+    gap: 25%;
+}
+#words{
+    display: flex;
+    gap: 10%;
+}
+#Names{
+    display: flex;
+    gap: 1%;
+}
+#button{
+    color: white;
+    border-radius: 10px;
+    background-color: blue;
+}
+#img4{
+    display: flex;
+    margin-top: 5%;
+    border-radius: 50%;
+}
+h4{
+    color: darkred;
+
+}
+@media all and (max-width:500px){
+    body
+}
